@@ -14,9 +14,6 @@ our $SORT = 'popularity';
 
 =head1 DESCRIPTION
 
-Source:
-L<https://github.com/danielmiessler/SecLists/blob/master/Passwords/10_million_password_list_top_100000.txt>
-(retrieved 2018-02-20).
 
 Wordlist is sorted by popularity (most popular first).
 
